@@ -2,3 +2,11 @@
 2026-10-02 15:57:19,206 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
 2026-10-02 15:57:19,218 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2026-10-02 15:57:19,218 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-10-02 16:20:03,632 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-10-02 16:20:03,638 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-10-02 16:20:03,651 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-10-02 16:20:03,651 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-10-02 16:23:56,537 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-10-02 16:23:56,543 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-10-02 16:23:56,559 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-10-02 16:23:56,560 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
